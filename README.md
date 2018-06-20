@@ -1,2 +1,2 @@
-# Warsztat_01
+# FindNumbers
 First workshop after one week in CodersLab Bootcamp
